@@ -1,6 +1,11 @@
 # FuckMETADATA
 FuckMETADATA is a simple Python script designed to remove metadata from images.
 
+REQUIREMENTS;
+
+pip install Pillow
+
+
 FuckMETADATA is a simple script that allows users to delete metadata on images file found inside the same folder as the script. 
 This script is designed to be kept in the download folder. Once images are downloaded, execute:
 
