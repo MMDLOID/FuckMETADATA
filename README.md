@@ -6,7 +6,7 @@ REQUIREMENTS;
 pip install Pillow
 
 
-FuckMETADATA is a simple script that allows users to delete metadata on images file found inside the same folder as the script. 
+FuckMETADATA is a simple script that allows users to delete metadata on all images file found inside the same folder as the script. 
 This script is designed to be kept in the download folder. Once images are downloaded, execute:
 
 python FuckMETADATA.py
@@ -30,3 +30,6 @@ To use ReadMETADATA.py; enter
 Python ReadMETADATA.py
 
 in CMD or python. this will ask you the IMG path, and will print you out METADATA information.
+
+
+MMDLOID is not responsible for any data loss. By using this script, you acknowledge that you are deleting data.
