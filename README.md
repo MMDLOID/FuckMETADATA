@@ -22,3 +22,11 @@ Confidentiality: For professional photographers or businesses, metadata might re
 Metadata Bloat: Over time, as images are edited and saved repeatedly, the metadata can accumulate unnecessary or redundant information, cluttering the file.
 Security Risks: In some cases, metadata can be exploited by malicious parties to gather information about you or your activities.
 Unnecessary for Casual Use: For casual or personal use, the detailed metadata might not be necessary and can be stripped to simplify file management.
+
+
+ReadMETADATA is a simple way to view METADATA Information store on images.
+
+To use ReadMETADATA.py; enter
+Python ReadMETADATA.py
+
+in CMD or python. this will ask you the IMG path, and will print you out METADATA information.
